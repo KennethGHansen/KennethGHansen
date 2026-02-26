@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+My name is Kenneth and I hold a Masters degree in electronics and optics. I have more than 18 years of experience in designing electronics for various companies. I am now working as an independent consultant via my company Gyldenbrand Consult (https://gyldenbrandconsult.dk/)
+
+I am now focusing on improving my skills within embedded programming, and I will be presenting my projects here.
+
+- 🔭 I’m currently working on implementing different sensors with the STM32F446RE microcontroller and the ESP32 microcontroller
+- 🌱 I’m currently building on my embedded coding knowledge using primarily STM32 and ESP32 microcontrollers for various projects.
 - 👯 I’m looking to collaborate on ...
 
 <!--
