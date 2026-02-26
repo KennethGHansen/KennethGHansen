@@ -6,7 +6,6 @@ I am now focusing on improving my skills within embedded programming, and I will
 
 - 🔭 I’m currently working on implementing different sensors with the STM32F446RE microcontroller and the ESP32 microcontroller
 - 🌱 I’m currently building on my embedded coding knowledge using primarily STM32 and ESP32 microcontrollers for various projects.
-- 👯 I’m looking to collaborate on ...
 
 <!--
 **KennethGHansen/KennethGHansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
